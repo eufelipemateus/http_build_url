@@ -1,0 +1,20 @@
+{
+  "name": "felipemateus/http-build-url",
+  "description": "",
+  "license": "GNPL3",
+  "keywords": ["http_build_url", "php","url"],
+  "authors": [
+    {
+      "name": "Felipe Mateus",
+      "email": "eu@felipemateus.com"
+    }
+  ],
+  "require": {
+    "php" : ">=5.4.0"
+  },
+  "autoload": {
+    "files": [
+      "src/http_build_url.php"
+    ]
+  }
+}
