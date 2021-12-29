@@ -1,6 +1,7 @@
 {
   "name": "felipemateus/http-build-url",
-  "description": "",
+  "version": "0.0.1",
+  "description": "This package implements a function which allows you to create urls with user and password parameter from http.",
   "license": "GPL-3.0-or-later",
   "keywords": ["http_build_url", "php","url"],
   "authors": [
